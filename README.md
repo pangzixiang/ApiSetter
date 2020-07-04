@@ -1,6 +1,7 @@
 # apisetter
 
 > 基于Electron-vue,ant design,express的API生成器，为了解决当后端还没有提供API时，前端开发受到限制的问题
+> 2020.7.1 V0.1.0
 
 #### Build Setup
 
