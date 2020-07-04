@@ -1,18 +1,18 @@
 # apisetter
 
-> create api for development
+> 基于Electron-vue,ant design,express的API生成器，为了解决当后端还没有提供API时，前端开发受到限制的问题
 
 #### Build Setup
 
 ``` bash
 # install dependencies
-npm install
+yarn #或者npm install
 
 # serve with hot reload at localhost:9080
 npm run dev
 
 # build electron application for production
-npm run build
+yarn build #或者npm run build
 
 
 ```
